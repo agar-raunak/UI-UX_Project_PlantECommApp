@@ -1,0 +1,13 @@
+Pros-
+- Lots of information about plants, for all levels of plant parents.
+- Pickup and Delivery option Available
+- Provide service, e.g. consultation, workshops and photoshop space rental.
+- Reviews are present on the plant details page
+- Canada wide delivery
+
+Cons-
+Under the shop section, information for a plant is not presented
+in a user friendly and readable manner. It rather looks like a
+lot of text put together.
+- Only one pickup location available, making it inaccesible to folks living
+further away from the location.

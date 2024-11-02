@@ -11,3 +11,5 @@ in a user friendly and readable manner. It rather looks like a
 lot of text put together.
 - Only one pickup location available, making it inaccesible to folks living
 further away from the location.
+
+-- contact me for questions
